@@ -1,3 +1,10 @@
+# Description: 
+#   Money conversor using a 3rd party data rate provider
+# Author: 
+#   Elio Garcia
+# Author GitHub profile: 
+#   https://github.com/etigersoft/
+
 from urllib.request import urlopen
 import json
 
