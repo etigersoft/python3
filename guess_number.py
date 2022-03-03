@@ -19,7 +19,7 @@ def run():
             print("Hint: Try a smaller number")
         
         if tries == 4: 
-            print("(Your las try)")
+            print("(You have one try left)")
 
         guess_number = int(input("Guess a diferent number: "))
         tries += 1
