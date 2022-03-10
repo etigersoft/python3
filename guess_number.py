@@ -28,6 +28,7 @@ def run():
         print("Congratulations, you got the number in " + str(tries) + " tries")
     else:
         print("You have reached the max number of tries!")
+        print("The right answer is >> " + str(seed_number))
 
 if __name__ == "__main__":
     run()
